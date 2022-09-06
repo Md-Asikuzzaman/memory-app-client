@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px !important;
+  padding: 20px;
+}
+
+/* The Style is going to be here... */
+/* .posts__container {
+
+} */
+
+.pointer {
+  cursor: pointer !important;
+}
+
+.form__wrapper {
+  background: #f4f4f4;
+  padding: 40px;
+}
+
+.google {
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+}
